@@ -22,3 +22,6 @@ Create Post
 
 Change theme
 -when pressed it will toggle between light and dark mode
+
+Contact Us
+-not a button, will just display contact info i.e. email
