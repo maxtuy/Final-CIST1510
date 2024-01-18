@@ -29,3 +29,12 @@ Contact Us
 
 Main Page
 -Home page, can navigate to any page from here
+  
+Following
+- a part on the home page
+- it'll show you new blogs from accounts that you're following
+
+Popular Now
+- a part on the home page
+- it'll show you blogs that are popular
+- resets every 24hours
