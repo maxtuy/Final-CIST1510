@@ -25,3 +25,6 @@ Change theme
 
 Contact Us
 -not a button, will just display contact info i.e. email
+
+Main Page
+-Home page, can navigate to any page from here
