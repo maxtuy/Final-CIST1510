@@ -19,4 +19,6 @@ Create Post
 - Has to be logged in
 -if not, it will take you to account page and then back to create post page
 -when post is created, it will be bound to your account and can be managed through the account page
-- 
+
+Change theme
+-when pressed it will toggle between light and dark mode
