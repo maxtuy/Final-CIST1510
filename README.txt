@@ -1,40 +1,16 @@
-This will be a blog website. 
-The roadmap seems to have inverted the color pallet. 
-The index page is the main page and can always be returned to by clicking the website name
-Twist: It's a blog page in afrikaans
+This website will share information, collect recruits, and display photos from our gallery about my WoW guild.
 
-Account Page
--log in or sign up
--view your following and can unfollow
--change password or email
--manage your posts
+main page
+-will function as an about us page
+-has our schedule, logs, and what our mission is
 
-Search results
--Can search by account names or by post names
+join us
+-functions as a contact page
+-will have ways to contact the guild managers to review your "pplication"
 
-Blogs
--represents all blogs
-- you can read (duh)
+files (name subject to change)
+-will contain the files that everyone needs for raids (weak auras, loot list, etc.)
 
-Create Post
-- Has to be logged in
--if not, it will take you to account page and then back to create post page
--when post is created, it will be bound to your account and can be managed through the account page
 
-Change theme
--when pressed it will toggle between light and dark mode
-
-Contact Us
--not a button, will just display contact info i.e. email
-
-Main Page
--Home page, can navigate to any page from here
-  
-Following
-- a part on the home page
-- it'll show you new blogs from accounts that you're following
-
-Popular Now
-- a part on the home page
-- it'll show you blogs that are popular
-- resets every 24hours
+gallery
+-will display photos of our great accomplishments
