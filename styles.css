@@ -1,0 +1,11 @@
+/*
+Student Name: Samuel Arrowood
+File Name: styles.css
+Date: 02/23/2024
+*/
+
+/*CSS Reset*/
+  body, header, nav, main, footer, img, h1, h2{  
+    margin: 0;
+    padding: 0;
+    border-style: none;}
