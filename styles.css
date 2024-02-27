@@ -90,13 +90,13 @@ footer{
   font-size: 0.85em;
   background-color: #C38D9E;
   color: #ffffff;
-  padding: 1% 0;
+  padding: 1%;
   position: fixed;
     height: 50px;
-  bottom: 0px;
-    left: 0px;
-    right: 0px;
-    margin-bottom: 0px;
+  bottom: 0;
+    left: 0;
+    right: 0;
+    margin-bottom: 0;
 }
 footer a{
   text-decoration: none;
