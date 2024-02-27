@@ -5,18 +5,24 @@ Date: 02/23/2024
 */
 
 /*CSS Reset*/
-  body, header, nav, main, footer, img, h1, h2{  
+  body, header, nav, main, footer, img, h1, h2, h3{  
     margin: 0;
     padding: 0;
     border-style: none;}
 
+/* style rules for logo*/
+#logo{
+  border-radius: 50%;
+}
+
 /*Style rules for body and images*/
 body{
-  background-color: #85DCB;
+  background-color: #85DCB0;
 }
 img{
   max-width: 100%;
   display: block;
+  image-rendering: crisp-edges;
 }
 
 /*Style rules for navigation area*/
@@ -47,6 +53,7 @@ main{
 }
 main p{
   font-size: 1.25em;
+  color: #ffffff;
 }
 main h3{
   padding-top: 2%;
@@ -73,8 +80,8 @@ main ul{
 footer{
   text-align: center;
   font-size: 0.85em;
-  background-color: #85DCB;
-  color: #f6eee4;
+  background-color: #C38D9E;
+  color: #ffffff;
   padding: 1% 0;
 }
 footer a{
