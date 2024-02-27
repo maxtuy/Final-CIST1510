@@ -9,3 +9,75 @@ Date: 02/23/2024
     margin: 0;
     padding: 0;
     border-style: none;}
+
+/*Style rules for body and images*/
+body{
+  background-color: #85DCB;
+}
+img{
+  max-width: 100%;
+  display: block;
+}
+
+/*Style rules for navigation area*/
+nav{
+  background-color: #41B3A3;
+}
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  text-align: center; 
+}
+nav li{
+  display: inline-block;
+  font-family: Geneva, Arial, sans-serif;
+  font-size: 1.5em;
+}
+nav li a{
+  display: block;
+  color: #E8A87C;
+  padding: 0.5em 2em;
+  text-decoration: none;
+}
+
+/*Style rules for main content*/
+main{
+  padding: 2%;
+  font-family: Veranda, Arial, sans-sarif;
+}
+main p{
+  font-size: 1.25em;
+}
+main h3{
+  padding-top: 2%;
+}
+main ul{
+  list-style-type: square;
+}
+.link{
+  color: #E8A87C;
+  text-decoration: none;
+  font-weight: bold;
+  font-style: italic;
+}
+.action{
+  font-size: 1.75em;
+  font-weight: bold;
+  text-align: center;
+}
+#contact{
+  text-align: center;
+}
+
+/*style rules for footer content*/
+footer{
+  text-align: center;
+  font-size: 0.85em;
+  background-color: #85DCB;
+  color: #f6eee4;
+  padding: 1% 0;
+}
+footer a{
+  text-decoration: none;
+  color: #E8A87C;
+}
