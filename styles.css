@@ -60,6 +60,8 @@ main h3{
 }
 main ul{
   list-style-type: square;
+  display: inline-block;
+  text-align: left;
 }
 .link{
   color: #E8A87C;
