@@ -101,9 +101,10 @@ footer a{
 /*custom gallery*/
 div.gallery {
   margin: 5px;
-  border: 1px solid #ccc;
+  border: 3px solid #ccc;
   float: left;
   width: 180px;
+  background-color: #C38D9E;
 }
 
 div.gallery:hover {
