@@ -75,6 +75,10 @@ main ul{
   font-weight: bold;
   font-style: italic;
 }
+.interactable{
+  border-style: solid;
+  border-width: medium;
+}
 #contact{
   text-align: center;
   font-weight: bold;
