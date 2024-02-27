@@ -10,14 +10,21 @@ Date: 02/23/2024
     padding: 0;
     border-style: none;}
 
-/* style rules for logo*/
+/* style rules for logo and center*/
 #logo{
-  border-radius: 50%;
+  border-radius: 25%;
+}
+#center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 /*Style rules for body and images*/
 body{
-  background-color: #85DCB0;
+  background-color: #85DCB0
+  margin-bottom:50px;;
 }
 img{
   max-width: 100%;
@@ -85,6 +92,12 @@ footer{
   background-color: #C38D9E;
   color: #ffffff;
   padding: 1% 0;
+  position: fixed;
+    height: 50px;
+  bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
 }
 footer a{
   text-decoration: none;
