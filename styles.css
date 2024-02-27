@@ -5,7 +5,7 @@ Date: 02/23/2024
 */
 
 /*CSS Reset*/
-  body, header, nav, main, footer, img, h1, h2, h3{  
+  body, header, nav, main, footer, img, h1, h2{  
     margin: 0;
     padding: 0;
     border-style: none;}
@@ -61,7 +61,7 @@ main p{
   font-size: 1.25em;
   
 }
-main h3{
+h3{
   padding-top: 2%;
 }
 main ul{
