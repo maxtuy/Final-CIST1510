@@ -10,10 +10,7 @@ Date: 02/23/2024
     padding: 0;
     border-style: none;}
 
-/* style rules for logo and header*/
-#logo{
-  border-radius: 25%;
-}
+/* style rules for and header*/
 header{
   background-color: #41B3A3;
 }
@@ -82,11 +79,6 @@ main ul{
 #contact{
   text-align: center;
   font-weight: bold;
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 /*style rules for footer content*/
