@@ -17,7 +17,7 @@ header{
 
 /*Style rules for body and images*/
 body{
-  background-color: #85DCB0;
+  background-color: #9a7351;
 }
 img{
   max-width: 100%;
@@ -26,7 +26,7 @@ img{
 
 /*Style rules for navigation area*/
 nav{
-  background-color: #41B3A3;
+  background-color: #850a0f;
 }
 nav ul{
   list-style-type: none;
@@ -51,7 +51,7 @@ nav li a{
 main{
   padding: 2%;
   font-family: Roboto, Veranda, Arial, sans-sarif;
-color: #ffffff;
+  color: #ffffff;
 }
 main p{
   font-size: 1.25em;
@@ -84,7 +84,7 @@ main ul{
 footer{
   text-align: center;
   font-size: 0.85em;
-  background-color: #C38D9E;
+  background-color: #373f4a;
   color: #ffffff;
   padding: 1%;
 }
